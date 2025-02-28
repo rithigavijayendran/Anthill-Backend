@@ -11,6 +11,7 @@ This repository contains the backend API for a Bus Booking System, built using E
 
 
 Use the following credentials to authenticate as an **admin**: 
+
 {
   "username": "AnthillNetworks",
 
@@ -18,6 +19,7 @@ Use the following credentials to authenticate as an **admin**:
 
   "password": "password123"
 },
+
 {
   "username": "Rithiga",
 
@@ -59,10 +61,13 @@ API documentation available via Swagger
 
 
 1️⃣ Clone the repository: 
+
 git clone https: https://github.com/rithigavijayendran/Anthill-Backend.git
+
 cd Anthill-Backend
 
 2️⃣ Install dependencies: 
+
 npm install
   
 4️⃣ Start the server:  
