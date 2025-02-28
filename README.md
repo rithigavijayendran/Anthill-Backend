@@ -1,12 +1,12 @@
 🚌 Bus Booking System API  
 
 📌 Overview  
-This repository contains the backend API for a Bus Booking System, built using Express.js and MongoDB. The API supports authentication,authorization, bus and route management, and user bookings.  
+This repository contains the backend API for a **Bus Booking System**, built using **Express.js** and **MongoDB**. The API supports authentication,authorization, bus and route management, and user bookings.  
 
 🚀 Live API URL  
---Base URL: https://anthill-backend-1.onrender.com
+--**Base URL**: https://anthill-backend-1.onrender.com
 
---Swagger API Docs: https://anthill-backend-1.onrender.com/api-docs
+--**Swagger API Docs**: https://anthill-backend-1.onrender.com/api-docs
 
 
 
